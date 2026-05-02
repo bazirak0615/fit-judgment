@@ -1,0 +1,29 @@
+한지호 (Ji-Ho Han)
+3년차 / 현 BannerAds (광고 플랫폼) 백엔드 엔지니어
+
+## 경력 요약
+백엔드 개발 3년. 데이터 파이프라인은 작은 규모 운영 경험만 있음.
+
+## 경력 사항
+
+### BannerAds (2023.05 ~ 현재)  · 백엔드 엔지니어
+- 광고 서빙 API (Django + Redis)
+- 일 처리 100만 건 정도
+- 광고 통계 집계 배치 (Cron 기반, Airflow 미사용)
+
+### MovieFlow (2022.01 ~ 2023.04)  · 백엔드 어소시에이트
+- Spring Boot + MySQL
+- 영화 추천 API
+- 작은 규모 ETL (일 10만 건)
+
+## 기술
+- Python (Django), Java (Spring Boot)
+- MySQL, Redis
+- AWS EC2/RDS (인프라 직접 운영은 미경험)
+
+## 외국어
+영어 - 일상 회화
+
+## 비고
+- Spark / Kafka 미경험
+- Airflow 사용 경험 없음 (Cron만 사용)

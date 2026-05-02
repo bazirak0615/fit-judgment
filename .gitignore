@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+*.db
+*.sqlite
+.streamlit/secrets.toml
+!.streamlit/config.toml
+!.streamlit/secrets.toml.example
+.env
+.env.*
+
+# 로그·임시 산출
+*.log
+*.bak
+last_session.json
+
+# 시스템
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+.claude/
+
+# 빌드 산출
+build/
+dist/
+*.egg-info/

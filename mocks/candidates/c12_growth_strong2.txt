@@ -1,0 +1,38 @@
+임소영 (So-Young Lim)
+9년차 / 현 PayWise (B2B SaaS - 핀테크) 그로스 디렉터
+
+## 경력 요약
+B2B SaaS 그로스 9년. PLG 모델 전문. Series B 스타트업 그로스팀 빌딩 경험.
+퍼포먼스 + 라이프사이클 + 실험 + 데이터 분석 풀스택.
+
+## 경력 사항
+
+### PayWise (2021.08 ~ 현재)  · 그로스 디렉터
+- 그로스 팀 6명 빌딩 (퍼포먼스 2 / 라이프사이클 2 / 분석 2)
+- 월 광고비 1.8억원 운영, ROAS 2.8 → 4.1
+- PLG 가입→유료 전환 12% → 21%
+- Braze + Customer.io 통합 운영
+- A/B 실험 분기당 18+건, 의미 발굴 5건/분기
+- SQL + Python 직접 분석, 자체 어트리뷰션 모델 구축
+
+### CollabHub (2018.04 ~ 2021.07)  · 그로스 마케팅 매니저
+- B2B SaaS 협업툴 그로스
+- 신규 가입 월 500 → 5,000건
+- HubSpot Marketing Hub admin
+
+### MarTechCorp (2015.05 ~ 2018.03)  · 디지털 마케터
+- 퍼포먼스 광고 + SEO
+
+## 핵심 기술
+- 퍼포먼스: Google/Meta/LinkedIn (월 2억원 운영 경험)
+- 라이프사이클: Braze, Customer.io, HubSpot, Marketo
+- 분석: SQL, Python (pandas, scikit-learn), Mixpanel, Amplitude
+- 실험: VWO, Optimizely, 자체 실험 플랫폼
+- 도메인: B2B SaaS, PLG, 핀테크
+
+## 외국어
+영어 - Native level (해외 MBA)
+
+## 부가
+- B2B SaaS 그로스 컨퍼런스 키노트 (2024)
+- 그로스 뉴스레터 운영 (구독자 8K)

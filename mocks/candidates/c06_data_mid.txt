@@ -1,0 +1,33 @@
+최민준 (Min-Joon Choi)
+5년차 / 현 ShopBox (이커머스) 데이터 분석가
+
+## 경력 요약
+데이터 분석 + BI 5년. 분산 처리 운영 경험은 제한적이나 SQL/Python 능숙.
+데이터 마트 설계는 가능하지만 대규모 ETL 파이프라인 구축은 미경험.
+
+## 경력 사항
+
+### ShopBox (2022.04 ~ 현재)  · 데이터 분석가
+- 매출/UA/리텐션 대시보드 구축 (Looker)
+- dbt 기반 마트 12개 모델 구축
+- ETL 일 1천만 건 (BigQuery + Cloud Composer)
+- 주간 분석 리포트 (CEO/CMO 보고)
+
+### LearnHub (2020.02 ~ 2022.03)  · 비즈니스 분석가
+- KPI 정의 및 추적 대시보드 (Tableau)
+- 코호트 분석, 어트리뷰션 분석
+- SQL 쿼리 일 평균 30+ 건
+
+### StartFresh (2019.07 ~ 2020.01)  · 마케팅 어소시에이트 (분석 담당)
+- GA + GA4 셋업
+- 광고 캠페인 결과 분석
+
+## 핵심 기술
+- SQL (전문), Python (분석 위주, pandas/numpy)
+- BI: Looker, Tableau, dbt
+- 분석: Cohort, Funnel, A/B test
+- 클라우드: GCP (BigQuery, Cloud Composer), 일부 AWS
+
+## 비고
+- 분산 처리(Spark) 강의 수강 경험만 있음, 프로덕션 운영 미경험
+- Kafka 학습 중

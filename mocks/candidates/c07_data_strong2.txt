@@ -1,0 +1,36 @@
+조하늘 (Ha-Neul Cho)
+10년차 / 현 GlobalCart (이커머스 글로벌) 데이터 인프라 리드
+
+## 경력 요약
+백엔드 + 데이터 엔지니어링 10년. 일 100억 건+ 파이프라인 운영 + 팀 빌딩.
+
+## 경력 사항
+
+### GlobalCart (2020.07 ~ 현재)  · 데이터 인프라 리드
+- 데이터 인프라팀 5명 매니징
+- 일 120억 건 이벤트 ETL (Spark on K8s + Airflow)
+- Kafka 클러스터 50개 노드 운영, 초당 200만 메시지
+- Feast Feature Store 도입, 추천 모델 latency 800ms → 200ms
+- Terraform IaC 100% 전환
+- AWS 비용 월 $200K → $130K 절감
+
+### CommerceLab (2017.11 ~ 2020.06)  · 시니어 데이터 엔지니어
+- Hadoop → Spark 마이그레이션 (성능 4x)
+- ML 팀 협업으로 추천 모델 서빙 인프라 구축
+
+### ServePoint (2014.05 ~ 2017.10)  · 백엔드 엔지니어
+- Django + PostgreSQL, Redis, Celery
+- 마이크로서비스 6개 분리
+
+## 기술
+- Spark (Scala/Python), Flink, Kafka
+- Airflow, Argo Workflows
+- AWS, K8s, Terraform
+- Python, Scala, Go
+
+## 외국어
+영어 - Native level (해외 거주 경험)
+
+## 부가
+- KubeCon 발표 (2023)
+- Apache Spark 기여 (PR 12)

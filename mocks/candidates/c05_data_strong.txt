@@ -1,0 +1,40 @@
+이상혁 (Sang-Hyuk Lee)
+8년차 / 현 PayLink (핀테크) 데이터 플랫폼 시니어 엔지니어
+
+## 경력 요약
+대규모 분산 데이터 파이프라인 구축·운영 8년. Spark + Kafka + Airflow 풀스택.
+일 처리량 60억 건 파이프라인 안정 운영 + 비용 35% 절감.
+
+## 경력 사항
+
+### PayLink (2022.06 ~ 현재)  · 시니어 데이터 엔지니어
+- 결제 이벤트 일 60억 건 ETL 파이프라인 (Spark on EMR + Airflow)
+- Kafka + Flink 기반 실시간 사기 탐지 파이프라인 신규 구축 (지연 800ms → 50ms)
+- AWS 비용 월 $95K → $62K로 35% 절감 (스팟 인스턴스 + 파티셔닝 최적화)
+- Feature Store(Feast) 도입, ML 팀 7명과 협업
+- 주니어 3명 멘토링, 코드 리뷰 주 20+ 건
+
+### CoinTrack (2019.08 ~ 2022.05)  · 데이터 엔지니어
+- 암호화폐 거래 데이터 일 8억 건 처리
+- dbt 기반 데이터 마트 30+ 모델 구축
+- ClickHouse 기반 실시간 대시보드 백엔드
+- Datadog 모니터링 + PagerDuty 알람 운영, SLA 99.95%
+
+### MartCore (2017.03 ~ 2019.07)  · 백엔드 엔지니어
+- 이커머스 백엔드 (Django + PostgreSQL)
+- 데이터 ETL Airflow 도입 (PoC → 프로덕션)
+- 마이크로서비스 분리 (모놀리식 → 8개 서비스)
+
+## 핵심 기술
+- 분산 처리: Spark, Hadoop, Hive
+- 스트리밍: Kafka, Flink, Kinesis
+- 데이터 모델링: dbt, Snowflake, BigQuery
+- 클라우드: AWS (EMR/Glue/Athena/S3), Terraform IaC
+- 언어: Python (전문), SQL (전문), Scala (Spark용)
+
+## 외국어
+영어 - Business (글로벌 본사 협업, Slack 영어 일상)
+
+## 기타
+- Apache Airflow 컨트리뷰터 (PR 5건 머지)
+- 사내 컨퍼런스 발표 3회

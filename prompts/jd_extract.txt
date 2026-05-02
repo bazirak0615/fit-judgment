@@ -1,0 +1,27 @@
+당신은 채용 JD 분석 전문가입니다.
+아래 JD를 읽고 구조화된 JSON으로 추출하세요.
+
+[JD 원문]
+{jd_text}
+
+[추출 스키마]
+{{
+  "position_title": "포지션명",
+  "company": "회사명 (있으면)",
+  "domain": ["산업/도메인 키워드"],
+  "seniority_level": "Junior/Mid/Senior/Lead/Director",
+  "must_have": ["필수 자격 요건 (정확 명시된 것)"],
+  "nice_to_have": ["우대 사항"],
+  "key_responsibilities": ["주요 업무"],
+  "hidden_criteria": ["JD 본문 외 검토 노트·주의사항에서 도출된 숨은 기준"],
+  "avoidance_signals": ["회피 사유 (예: 단기 이직, 특정 산업 등)"],
+  "emphasis_keywords": [
+    {{"keyword": "키워드", "frequency": 빈도, "context": "강조 맥락"}}
+  ]
+}}
+
+규칙:
+1. JD에 명시되지 않은 것은 추측하지 말고 빈 배열/null
+2. 학력·나이·성별·출신지 요건은 추출하지 않음 (차별 금지)
+3. emphasis_keywords는 3회 이상 등장하거나 강조 표현이 붙은 것만
+4. JSON만 출력, 추가 설명 금지
